@@ -9,7 +9,7 @@
 /**
  * This function calculates Perimeter of a rectangle.
  */
-function calculatePerimeterOfRectangle () {
+function doMathClicked () {
   // input
   const lengthOfRectangle = parseInt(document.getElementById('length-of-rectangle').value)
   const widthOfRectangle = parseInt(document.getElementById('width-of-rectangle').value)
