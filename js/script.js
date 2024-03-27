@@ -18,5 +18,5 @@ function calculatePerimeterOfRectangle () {
   const calculatePerimeterOfRectangle = 2 * (lengthOfRectangle * widthOfRectangle)
 
   // output
-  document.getElementById('perimeter').innerHTML = 'Perimeter is: '+ calculatePerimeterOfRectangle +' cm²'
+  document.getElementById('perimeter').innerHTML = 'Perimeter is: '+ calculatePerimeterOfRectangle + 'cm'
 }
